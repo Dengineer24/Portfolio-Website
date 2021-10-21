@@ -691,14 +691,14 @@ nav {
 }
 
 .scroll {
-	background: url(/Users/dhruvengineer/Desktop/d-projects/Portolfio Website/images/IMG_3996.jpg);
+	background: url(./images/IMG_3996.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	height: 500px;
 }
 
 .scroll2 {
-	background: url(/Users/dhruvengineer/Desktop/d-projects/Portolfio Website/images/IMG_3996.jpg);
+	background: url(./images/IMG_3996.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	height: 500px;
